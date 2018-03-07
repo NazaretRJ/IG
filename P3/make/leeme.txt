@@ -1,0 +1,33 @@
+Autora : María Nazaret Ruiz Jaldo
+
+    Q -> quitar
+    P -> puntos
+	L ->lineas
+	F -> modo relleno
+	C -> ajedrez
+	1 -> Activar tetraedro
+	2 -> Activar Cubo
+	3 -> Activar PLY
+	4 -> Activar Rev
+	5-> activar perro
+	T -> tapas
+	+ -> poner una vista más.
+	- -> poner una vista menos.
+	H -> Activar Casa o animar cabeza perro
+	R -> Activar Rombo
+	M -> para ver más grande el revolución o mover la pata
+	V -> meter vertices para revolucionar
+	S-> Mover la cola
+	I-> redimensiona la cola (más grande)
+	U-> redimensionar la cola (más pequeña)
+	X-> mueve la cara
+
+	//EXAMEN JERARQUICO
+	K-> controla la lengua
+	
+	
+
+
+
+    //Examen práctica
+ 	A -> //activar fill,lines y points
