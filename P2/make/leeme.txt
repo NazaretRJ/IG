@@ -1,0 +1,24 @@
+Autora : María Nazaret Ruiz Jaldo
+
+    Q -> quitar
+    P -> puntos
+	L ->lineas
+	F -> modo relleno
+	C -> ajedrez
+	1 -> Activar tetraedro
+	2 -> Activar Cubo
+	3 -> Activar PLY
+	4 -> Activar Rev
+	T -> tapas
+	+ -> poner una vista más.
+	- -> poner una vista menos.
+	H -> Activar Casa
+	R -> Activar Rombo
+	M -> para ver más grande
+	V -> meter vertices para revolucionar
+
+
+    //Examen práctica
+ 	A -> //activar fill,lines y points
+	//examen prueba 2
+	E-> cambiar eje de rotacion
